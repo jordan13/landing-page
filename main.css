@@ -48,15 +48,30 @@ div {
     color: black;
     font-family: 'Oxygen', sans-serif;
 }
+
+div2 {
+    height: 200px;
+    width: 400px;
+    background: transparent;
+    color: black;
+    font-family: 'Oxygen', sans-serif;
+}
 .jo {
 	text-align:center 
 
 	
 }
 
+.jordan {
+  width: 300px;
+    padding: 25px;
+    border: 5px transparent;
+    margin: 25px;
+}
+
 .ja {
 	text-align: center;
-	 margin-left: 50px;
+	 margin-left: 100px;
     margin-right: 200px;
     width: auto;
 }
@@ -127,7 +142,7 @@ a.button:active {
 }
 
 #center {
-  width: 540px;
+  width: 370px;
   display: block;
   position: absolute;
   margin: auto;
@@ -139,7 +154,7 @@ a.button:active {
   height: 43px;
 }
 #center2 {
-  width: 700px;
+  width: 560px;
   display: block;
   position: absolute;
   margin: auto;
@@ -149,4 +164,12 @@ a.button:active {
   bottom: 550px;
   padding: 0;
   height: 20px;
+}
+.border {
+  border-color: transparent; 
+   height: 105px;
+   border: 4px;
+    padding: 50px;
+    font-size: 25px;
+
 }
