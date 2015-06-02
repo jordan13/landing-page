@@ -18,7 +18,7 @@
     }
 body {
  background: green;
- background-image: url("http://www.hiwallpaperson.com/wp-content/uploads/2015/05/geometric-abstract-wallpapers.jpg");
+ background-image: url("http://digitalphotographyhobbyist.com/wp-content/gallery/textures-sky-sunset/2-orange-horizontal-horizon.jpg");
  background-size: auto;
  background-repeat: no-repeat;
     background-attachment: fixed;
@@ -28,7 +28,21 @@ body {
         -o-background-size: cover;
         background-size: cover;
 }
-
+a {
+  color: black;
+}
+a:link {
+color: black;
+}
+a:visited {
+color: black;
+}
+a:hover {
+color: black;
+}
+.carousel-caption{
+  font-color:: black;
+}
 .three {
     height: 200px;
     width: 400px;
@@ -222,12 +236,12 @@ a.button:active {
   border-color: transparent; 
    height: 100%;
     width: 350px;
-    margin: 100px;
+    margin: 40px;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
     font-size: 14px;
-    bottom: 700px;
+    bottom: 600px;
     font-family: 'Oxygen', sans-serif;
 
 }
@@ -238,7 +252,7 @@ a.button:active {
 .border2 {
   border-color: transparent; 
    height: 100%;
-    width: 380px;
+    width: 80%;
     margin: 130px;
     margin-right: auto;
     margin-left: auto;
@@ -247,6 +261,12 @@ a.button:active {
     bottom: 700px;
     font-family: 'Oxygen', sans-serif;
 
+}
+.link{
+  bottom: auto;
+  height: auto;
+  width: auto;
+  padding: auto;
 }
 #center3 {
   width: 310px;
